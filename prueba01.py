@@ -1,3 +1,4 @@
 #hola mundo
 #que tal 
-fprintf("hola mundo")
+printf("hola mundo")
+printf("hello World")
